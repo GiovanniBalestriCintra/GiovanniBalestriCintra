@@ -75,10 +75,14 @@ Sou estudante do curso **Técnico em Desenvolvimento de Sistemas** no Senac, bus
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=GiovanniBalestriCintra&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniBalestriCintra&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
+
 <img height="165" src="https://streak-stats.demolab.com?user=GiovanniBalestriCintra&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
 
 </div>
+
+---
 
 ---
 
