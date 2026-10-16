@@ -112,7 +112,7 @@ Sou estudante do curso **Técnico em Desenvolvimento de Sistemas** no Senac, bus
 
 ---
 
-## 🐍 Jogo da Cobrinha
+
 
 <div align="center">
 
