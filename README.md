@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:512BD4&height=240&section=header&text=Giovanni%20Balestri%20Cintra&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Desenvolvimento%20de%20Sistemas%20•%20Back-end%20•%20C%23%20%7C%20.NET%20%7C%20SQL&descSize=17&descAlignY=58&animation=fadeIn" alt="Giovanni Balestri Cintra" width="100%" />
 
-# 👋 Olá! Eu sou Giovanni Balestri Cintra
 
 ### 💻 Técnico em Desenvolvimento de Sistemas — Senac
 
