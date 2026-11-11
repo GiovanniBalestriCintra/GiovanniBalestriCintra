@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:512BD4&height=240&section=header&text=Giovanni%20Balestri%20Cintra&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Desenvolvimento%20de%20Sistemas%20•%20Back-end%20•%20C%23%20%7C%20.NET%20%7C%20SQL&descSize=17&descAlignY=58&animation=fadeIn" alt="Giovanni Balestri Cintra" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:512BD4&height=240&section=header&text=Giovanni%20Balestri%20Cintra&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Desenvolvimento%20de%20Sistemas%20•%20Back-end%20•%20C%23%20%7C%20.NET%20%7C%20SQL&descSize=17&descAlignY=58&animation=fadeIn" width="100%" />
 
 ### 💻 Técnico em Desenvolvimento de Sistemas — Senac
 
@@ -22,6 +21,7 @@ Sou estudante do curso **Técnico em Desenvolvimento de Sistemas** no Senac, bus
 
 - 🎓 Técnico em Desenvolvimento de Sistemas — Senac
 - 💻 Interesse em desenvolvimento **back-end**
+- 🖥️ Experiência com aplicações desktop utilizando Windows Forms
 - 🗄️ Estudando banco de dados e linguagem SQL
 - 🚀 Sempre buscando aprender novas tecnologias e evoluir como desenvolvedor
 
@@ -29,7 +29,7 @@ Sou estudante do curso **Técnico em Desenvolvimento de Sistemas** no Senac, bus
 
 ## 🌱 Atualmente
 
-- 📚 Aprofundando C# e .NET com aplicações desktop
+- 📚 Aprofundando C#, .NET e Windows Forms com aplicações desktop
 - 🗄️ Praticando modelagem de dados e integração com banco de dados
 - 🧱 Aplicando Programação Orientada a Objetos nos projetos da faculdade
 
@@ -42,13 +42,14 @@ Sou estudante do curso **Técnico em Desenvolvimento de Sistemas** no Senac, bus
 | Área | Tecnologias |
 |------|-------------|
 | 💻 **Back-end** | C# · .NET |
+| 🖥️ **Desktop** | Windows Forms |
 | 🗄️ **Banco de Dados** | MySQL · MariaDB · SQL |
 | 🛠️ **Ferramentas** | Git · GitHub · Visual Studio |
 | 🖥️ **Virtualização** | Oracle VirtualBox |
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,mysql,git,github" alt="Tecnologias" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,windows,mysql,git,github" alt="Tecnologias" />
 
-<br/><br/>
+<br><br>
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -63,37 +64,57 @@ Sou estudante do curso **Técnico em Desenvolvimento de Sistemas** no Senac, bus
 
 ## 📁 Projetos em destaque
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| [🐾 PetShop-Amigo-Fiel](https://github.com/GiovanniBalestriCintra/PetShop-Amigo-Fiel) | Sistema para gerenciamento de pet shop | C# |
-| [🏦 SistamaBancarioOO-Senac](https://github.com/GiovanniBalestriCintra/SistamaBancarioOO-Senac) | Sistema bancário aplicando Orientação a Objetos | C# |
-| [🥖 tds02_padaria](https://github.com/GiovanniBalestriCintra/tds02_padaria) | Aplicação desktop com integração a banco de dados (UC7) | C# |
+<div align="center">
+
+<table>
+<tr>
+<th>Projeto</th>
+<th>Descrição</th>
+<th>Tecnologias</th>
+</tr>
+
+<tr>
+<td>📦 <a href="https://github.com/GiovanniBalestriCintra/lab_CadastroDeProdutos">lab_CadastroDeProdutos</a></td>
+<td>Sistema de cadastro e gerenciamento de produtos</td>
+<td>C# · Windows Forms</td>
+</tr>
+
+<tr>
+<td>🏦 <a href="https://github.com/GiovanniBalestriCintra/SistemaBancarioOO-Senac">SistemaBancarioOO-Senac</a></td>
+<td>Sistema bancário aplicando Orientação a Objetos</td>
+<td>C#</td>
+</tr>
+
+<tr>
+<td>🥖 <a href="https://github.com/GiovanniBalestriCintra/tds02_padaria">tds02_padaria</a></td>
+<td>Aplicação desktop com integração a banco de dados</td>
+<td>C#</td>
+</tr>
+
+</table>
+
+</div>
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GiovanniBalestriCintra&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-</p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniBalestriCintra&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=GiovanniBalestriCintra&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+  <img height="165" src="https://streak-stats.demolab.com?user=GiovanniBalestriCintra&theme=tokyonight&hide_border=true&locale=pt_BR" />
 </p>
 
 ---
 
 ## 🎯 Objetivos
 
-- 📚 Aprofundar meus conhecimentos em **C#** e **.NET**
-- 🗄️ Evoluir em modelagem de dados, **MySQL** e **SQL**
-- 💡 Aprimorar minha lógica de programação
-- 🖥️ Aprender mais sobre sistemas e virtualização
-- 🚀 Crescer profissionalmente na área de desenvolvimento de software
+• Evolução contínua como profissional de tecnologia  
+• Aprendizado constante e desenvolvimento pessoal  
+• Criação de soluções úteis por meio da programação  
+• Participação em projetos que gerem valor e impacto  
+• Ampliação da experiência prática em desenvolvimento de software  
+• Construção de uma carreira sólida na área de tecnologia  
+• Transformação de conhecimento em resultados concretos
 
 ---
 
@@ -113,8 +134,6 @@ Sou estudante do curso **Técnico em Desenvolvimento de Sistemas** no Senac, bus
 
 ---
 
-
-
 <div align="center">
 
 <picture>
@@ -125,6 +144,6 @@ Sou estudante do curso **Técnico em Desenvolvimento de Sistemas** no Senac, bus
 
 *Em constante aprendizado, evoluindo um código de cada vez.* 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0A66C2&height=110&section=footer" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0A66C2&height=110&section=footer" width="100%" />
 
 </div>
