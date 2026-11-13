@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A66C2,50:512BD4,100:7AA2F7&height=230&section=header&text=Giovanni%20Balestri%20Cintra&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Desenvolvimento%20de%20Sistemas%20•%20Back-end%20•%20C%23%20|%20.NET%20|%20SQL&descSize=16&descAlignY=62&animation=fadeIn" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:512BD4&height=240&section=header&text=Giovanni%20Balestri%20Cintra&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Desenvolvimento%20de%20Sistemas%20•%20Back-end%20•%20C%23%20%7C%20.NET%20%7C%20SQL&descSize=17&descAlignY=58&animation=fadeIn" width="100%" />
 
 ### 💻 Técnico em Desenvolvimento de Sistemas — Senac
 
