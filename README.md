@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A66C2,50:512BD4,100:7AA2F7&height=230&section=header&text=Giovanni%20Balestri%20Cintra&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Desenvolvimento%20de%20Sistemas%20•%20Back-end%20•%20C%23%20|%20.NET%20|%20SQL&descSize=16&descAlignY=62&animation=fadeIn" alt="Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;C%23+%7C+.NET+%7C+SQL;Aprendendo+e+construindo+%F0%9F%9A%80" alt="Typing SVG" />
-
 ### 💻 Técnico em Desenvolvimento de Sistemas — Senac
 
 Estudante de tecnologia com interesse em desenvolvimento de software, programação e banco de dados.
